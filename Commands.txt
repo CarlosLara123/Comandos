@@ -1,0 +1,29 @@
+git clone <url repositorio>
+
+	Copia el repositorio de la url y crea una carpeta con todo lo del repositorio
+git status
+
+	Muestra las diferencia entre nuestros archivos y lo que esta subido en GitHub
+
+git add <archivo // carpeta // -A (todo) >
+
+	Agrega lo especificado al repositorio, aun no lo guarda
+
+git commit -m "<mensaje>"
+
+	Guarda un mensaje de lo que hicimos con los cambios
+
+git push
+
+	Ya guarda los cambios de archivos dentro del Github
+
+git pull
+
+	Recupero los ultimos archivos guardados del github
+
+si se hace solo un
+	git commit
+se tiene un error para salir del error es:
+
+	esc + : + w + q
+
