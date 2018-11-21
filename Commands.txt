@@ -27,3 +27,4 @@ se tiene un error para salir del error es:
 
 	esc + : + w + q
 
+prueba
