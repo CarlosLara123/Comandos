@@ -1,0 +1,16 @@
+Combinar cambios de Diego A Nebury
+
+	base fork
+		Nebury
+
+	head fork
+		Diego
+
+Traer cambios de Nebury a Diego
+	click en compare across forks
+
+	base fork
+		Diego
+
+	head fork
+		Nebury
